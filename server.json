@@ -17,12 +17,12 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
     {
-      "id": 3,
-      "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
+      "name": "Moda Chinesa",
+      "description": "Yakissoba Misto para 2 pessoas com refrigerante",
+      "price": "29,90",
+      "image": "https://img.stpu.com.br/?img=https://s3.amazonaws.com/pu-mgr/default/a0RG000000jajRYMAY/565f01ebe4b020c87e3f8c59.jpg&w=710&h=462",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      "id": 4
     }
   ]
 }
